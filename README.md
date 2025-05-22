@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio del M0 de henry
+Este proyecto es una prueba de como crear un repositorio y clonar desde github a mi escritorio local
